@@ -1,0 +1,4 @@
+-lib GmlCppExtFuncs
+-D autogen_gml=../GMSDLL_23/extensions/GMSDLL/autogen.gml
+-D autogen_cpp=../GMSDLL_23/extensions/GMSDLL/GMSDLL.cpp
+-D autogen_main=Main
