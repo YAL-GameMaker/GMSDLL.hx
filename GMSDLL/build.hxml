@@ -1,0 +1,6 @@
+-cp src
+-cpp bin
+-D dll_link
+-D HAXE_OUTPUT_FILE=GMSDLL
+-main Main
+autogen.hxml

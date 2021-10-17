@@ -18,4 +18,6 @@ to your PATH or copy the executable into project directory.
 
 `export/` folder contains sample scripts for re-generating Local Asset Packages without going through GameMaker UI, along with a sample script for uploading releases to `itch.io`.
 
-Caveat: it is unclear whether and how to use this for non-Windows.
+## Workflow
+
+Open the included HaxeDevelop project (`.hxproj`) or do `haxe build.hxml` from CLI while in the GMSDLL directory.
