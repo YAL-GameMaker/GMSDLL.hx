@@ -56,51 +56,6 @@
           <argCount>0</argCount>
           <args/>
         </function>
-        <function>
-          <name>add_ints_raw</name>
-          <externalName>add_ints_raw</externalName>
-          <kind>11</kind>
-          <help></help>
-          <returnType>2</returnType>
-          <argCount>1</argCount>
-          <args>
-            <arg>1</arg>
-          </args>
-        </function>
-        <function>
-          <name>add_int64s_raw</name>
-          <externalName>add_int64s_raw</externalName>
-          <kind>11</kind>
-          <help></help>
-          <returnType>2</returnType>
-          <argCount>1</argCount>
-          <args>
-            <arg>1</arg>
-          </args>
-        </function>
-        <function>
-          <name>lenof_raw</name>
-          <externalName>lenof_raw</externalName>
-          <kind>11</kind>
-          <help></help>
-          <returnType>2</returnType>
-          <argCount>2</argCount>
-          <args>
-            <arg>1</arg>
-            <arg>1</arg>
-          </args>
-        </function>
-        <function>
-          <name>greet_raw</name>
-          <externalName>greet_raw</externalName>
-          <kind>11</kind>
-          <help></help>
-          <returnType>2</returnType>
-          <argCount>1</argCount>
-          <args>
-            <arg>1</arg>
-          </args>
-        </function>
       </functions>
       <constants/>
     </file>
@@ -154,52 +109,7 @@
         </Config>
       </ConfigOptions>
       <ProxyFiles/>
-      <functions>
-        <function>
-          <name>add_ints</name>
-          <externalName>add_ints</externalName>
-          <kind>2</kind>
-          <help>add_ints(a:int, b:int)-&gt;int</help>
-          <returnType>2</returnType>
-          <argCount>2</argCount>
-          <args>
-            <arg>2</arg>
-            <arg>2</arg>
-          </args>
-        </function>
-        <function>
-          <name>add_int64s</name>
-          <externalName>add_int64s</externalName>
-          <kind>2</kind>
-          <help>add_int64s(a:int, b:int)-&gt;int</help>
-          <returnType>2</returnType>
-          <argCount>2</argCount>
-          <args>
-            <arg>2</arg>
-            <arg>2</arg>
-          </args>
-        </function>
-        <function>
-          <name>lenof</name>
-          <externalName>lenof</externalName>
-          <kind>2</kind>
-          <help>lenof(s:string)-&gt;int</help>
-          <returnType>2</returnType>
-          <argCount>1</argCount>
-          <args>
-            <arg>2</arg>
-          </args>
-        </function>
-        <function>
-          <name>greet</name>
-          <externalName>greet</externalName>
-          <kind>2</kind>
-          <help>greet()</help>
-          <returnType>2</returnType>
-          <argCount>0</argCount>
-          <args/>
-        </function>
-      </functions>
+      <functions/>
       <constants/>
     </file>
   </files>

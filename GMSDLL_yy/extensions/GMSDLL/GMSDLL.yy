@@ -51,67 +51,6 @@
                     "kind": 11,
                     "name": "GMSDLL_init_raw",
                     "returnType": 1
-                },
-                {
-                    "id": "aeedd874-3eb2-f254-6bc2-26c9c886230c",
-                    "modelName": "GMExtensionFunction",
-                    "mvc": "1.0",
-                    "argCount": 1,
-                    "args": [
-                        1
-                    ],
-                    "externalName": "add_ints_raw",
-                    "help": "",
-                    "hidden": true,
-                    "kind": 11,
-                    "name": "add_ints_raw",
-                    "returnType": 2
-                },
-                {
-                    "id": "c3d3ce88-7f71-a4c1-173d-52e6df8eee3e",
-                    "modelName": "GMExtensionFunction",
-                    "mvc": "1.0",
-                    "argCount": 1,
-                    "args": [
-                        1
-                    ],
-                    "externalName": "add_int64s_raw",
-                    "help": "",
-                    "hidden": true,
-                    "kind": 11,
-                    "name": "add_int64s_raw",
-                    "returnType": 2
-                },
-                {
-                    "id": "c2c370a1-254a-80f8-e73d-d3c436a85b8e",
-                    "modelName": "GMExtensionFunction",
-                    "mvc": "1.0",
-                    "argCount": 2,
-                    "args": [
-                        1,
-                        1
-                    ],
-                    "externalName": "lenof_raw",
-                    "help": "",
-                    "hidden": true,
-                    "kind": 11,
-                    "name": "lenof_raw",
-                    "returnType": 2
-                },
-                {
-                    "id": "3c2c3177-5d53-863e-8ea4-16a2982422f1",
-                    "modelName": "GMExtensionFunction",
-                    "mvc": "1.0",
-                    "argCount": 1,
-                    "args": [
-                        1
-                    ],
-                    "externalName": "greet_raw",
-                    "help": "",
-                    "hidden": true,
-                    "kind": 11,
-                    "name": "greet_raw",
-                    "returnType": 2
                 }
             ],
             "init": "",
@@ -189,68 +128,7 @@
             "filename": "autogen.gml",
             "final": "",
             "functions": [
-                {
-                    "id": "be2546e8-dd30-adef-a8fe-630c275182e0",
-                    "modelName": "GMExtensionFunction",
-                    "mvc": "1.0",
-                    "argCount": 2,
-                    "args": [
-                        2,
-                        2
-                    ],
-                    "externalName": "add_ints",
-                    "help": "add_ints(a:int, b:int)->int",
-                    "hidden": false,
-                    "kind": 2,
-                    "name": "add_ints",
-                    "returnType": 2
-                },
-                {
-                    "id": "e2e98adb-1d30-521c-9d76-18b10cf7e45b",
-                    "modelName": "GMExtensionFunction",
-                    "mvc": "1.0",
-                    "argCount": 2,
-                    "args": [
-                        2,
-                        2
-                    ],
-                    "externalName": "add_int64s",
-                    "help": "add_int64s(a:int, b:int)->int",
-                    "hidden": false,
-                    "kind": 2,
-                    "name": "add_int64s",
-                    "returnType": 2
-                },
-                {
-                    "id": "69796422-2a24-f16b-4268-f84c73bd22f4",
-                    "modelName": "GMExtensionFunction",
-                    "mvc": "1.0",
-                    "argCount": 1,
-                    "args": [
-                        2
-                    ],
-                    "externalName": "lenof",
-                    "help": "lenof(s:string)->int",
-                    "hidden": false,
-                    "kind": 2,
-                    "name": "lenof",
-                    "returnType": 2
-                },
-                {
-                    "id": "c7bcdf53-fd30-8fcf-ad32-347e2942b14a",
-                    "modelName": "GMExtensionFunction",
-                    "mvc": "1.0",
-                    "argCount": 0,
-                    "args": [
-                        
-                    ],
-                    "externalName": "greet",
-                    "help": "greet()",
-                    "hidden": false,
-                    "kind": 2,
-                    "name": "greet",
-                    "returnType": 2
-                }
+                
             ],
             "init": "",
             "kind": 2,

@@ -9,6 +9,7 @@ import haxe.Int64;
  */
 @:build(GmlExtMacro.build())
 @:keep class Main {
+	/*// some examples:
 	@:dllExport static function add_ints(a:Int, b:Int):Int {
 		return a + b;
 	}
@@ -21,8 +22,8 @@ import haxe.Int64;
 	@:dllExport("greet") static function greet_():Void {
 		Sys.println("hi!");
 	}
+	*/
 	static function main() {
-		
+		// runs on extension load!
 	}
-	
 }
